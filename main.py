@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import random
 
-TOKEN = "NzEyODc5NDkxNTY3MDU5MDI4.XsX-ww.hBUZbNt_L5wgVmlp5EphKeIPZJI"
+TOKEN = "ODAxMTQwMTc4ODk0MTkyNjQz.YAcV7w.Ihp7_K6-rnhjVt6_mqY6Eet4M7wI"
 
 client = commands.AutoShardedBot(command_prefix="$")
 client.remove_command('help')
